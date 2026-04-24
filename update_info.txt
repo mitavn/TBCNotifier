@@ -1,3 +1,3 @@
-3.2.1.0
+3.2.2.0
 https://raw.githubusercontent.com/mitavn/TBCNotifier/main/TBCInstaller.exe
 "Sửa lỗi hiển thị nút"
