@@ -1,4 +1,4 @@
-3.2.6
+3.2.7
 https://raw.githubusercontent.com/mitavn/TBCNotifier/main/TBCInstaller.exe
 Phát hành TBCNotifier v3.2.6.
 - Cập nhật tính năng tải và cài đặt nền (Silent Install) tự động hoàn toàn.
