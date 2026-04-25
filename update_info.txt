@@ -1,5 +1,4 @@
 3.2.8
 https://raw.githubusercontent.com/mitavn/TBCNotifier/main/TBCInstaller.exe
 Phát hành TBCNotifier v3.2.8.
-- Sửa lỗi không hiển thị thông báo cập nhật do bộ nhớ đệm (Cache) của máy chủ.
-force_update=1
+- Cập nhật Projects cho phép hoạt động trực tiếp tại bàn làm việc mà không cần mở explorer.
