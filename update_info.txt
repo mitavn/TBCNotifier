@@ -1,6 +1,6 @@
-3.2.8
+3.2.9
 https://raw.githubusercontent.com/mitavn/TBCNotifier/main/TBCInstaller.exe
 Phát hành TBCNotifier v3.2..9.
 - Cập nhật Projects cho phép hoạt động trực tiếp tại bàn làm việc mà không cần mở explorer.
-- Cho phép hiển thị lại DB.
+- Cho phép hiển thị lại DB. Phím tắt Ctrl + Shift + B.
 - Thêm các tủ mimic: NCA-2, N-NCA-E,...
