@@ -1,6 +1,6 @@
-3.3.0
+3.2.10
 https://raw.githubusercontent.com/mitavn/TBCNotifier/main/TBCInstaller.exe
-Phát hành TBCNotifier v3.3.0
+Phát hành TBCNotifier v3.2.10
 - Sửa một số lỗi
 - Cập nhật giá USD / Vàng thời gian thực.
 - Tự động chuyển đổi số tiền thành chữ. Ví dụ: 1.000.000 -> "Một triệu đồng"
